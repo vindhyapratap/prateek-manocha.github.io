@@ -1,3 +1,8 @@
+Personal webpage hosted at [Prateek Manocha](https://www.prateekmanocha.com)
+
+Website made using various available open sourse template from Start Bootstrap.
+
+
 # [Start Bootstrap - Half Slider](https://startbootstrap.com/template-overviews/half-slider/)
 
 [Half Slider](http://startbootstrap.com/template-overviews/half-slider/) is an HTML starter template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This template features a full width, half page image slider header with captions.
